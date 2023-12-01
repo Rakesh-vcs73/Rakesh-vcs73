@@ -7,7 +7,7 @@ the code upgrades and enhancements of Spring Boot APIs.
 
 <br>
 <br>
-You can find me in: 
+You can find me on: 
 <a href="https://www.linkedin.com/in/rakesh-vcs73/">LinkedIn</a>
 <br>
 <br>
