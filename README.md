@@ -11,7 +11,9 @@ You can find me in:
 <a href="https://www.linkedin.com/in/rakesh-vcs73/">LinkedIn</a>
 <br>
 <br>
-🌱 I’m currently learning React...
+🔭 I’m currently working on Java Spring Boot.
+<br>
+🌱 I’m currently learning React.
 
 <!--
 **Rakesh-vcs73/Rakesh-vcs73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
